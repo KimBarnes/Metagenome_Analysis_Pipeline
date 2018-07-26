@@ -1,0 +1,7 @@
+-Parameters File-
+
+Directory:/c2d2/groups/chong/kb567/Final_Test
+
+Completeness_threshold:90
+
+Contamination_threshold:10
