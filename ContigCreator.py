@@ -18,7 +18,7 @@ pylab.ioff()
 
 
 
-for file in glob.glob(r"C:/Users/Kim/Documents/Masters/Python In Progress/Control Sequences/Whole Sequences/*.fasta"):
+for file in glob.glob(r"/*.fasta"):
  filename=file.split("\\")[1]
  name=filename.split(".")[0]
  with open("%s" %filename, "r") as f:
